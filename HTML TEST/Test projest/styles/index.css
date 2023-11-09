@@ -1,0 +1,18 @@
+
+
+body{
+    background-image: url(../images/cover\ 1.jpg);
+    width: 300;
+    border-width: 2px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    background-attachment: scroll;
+    background-color: chocolate;
+}
+h1{
+    font-style: italic;
+    font-size: large;
+    text-align: center;font-size: 100px;
+    color: antiquewhite;
+}

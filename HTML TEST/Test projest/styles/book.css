@@ -1,0 +1,26 @@
+h1,h2,h3{
+    text-align: center;
+    color: chocolate;
+    font-size: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    border: 2px solid black;
+    width: 200;
+    background-color: chocolate;
+    
+    
+    display: block;
+}
+body{
+    background-image: url(../images/my\ book.jpg);
+    width: 200;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    background-attachment: scroll;
+    background-color: chocolate;
+}
+p{
+    color: crimson;
+}
